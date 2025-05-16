@@ -10,3 +10,7 @@ _A horror escape room game built in C++._
 - 👻 Inamici periculoși care te urmăresc  
 - ⚔️ Sistem de luptă cu iteme și strategii  
 - 🔦 Inventar gestionabil cu obiecte utile  
+
+## Cerințele principale ale proiectului:
+- _Partea 1_
+  * [x] Implementarea în C++ 
