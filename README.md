@@ -30,9 +30,9 @@ _A horror escape room game built in C++._
 ### 📌 _Partea 2_
   - [x] Moșteniri
      - **multiple**:
-           - _Riddle_ și _HangMan_ sunt moștenite din clasa abstractă _Puzzle_
-           - _AttackItem_, _HealIteam_ și _CollectibleItem_ sunt moștenite din clasa abstractă _Item_
-           -  _Enemy_ este moștenită din clasa abstractă _Entity_
+       - _Riddle_ și _HangMan_ sunt moștenite din clasa abstractă _Puzzle_
+       - _AttackItem_, _HealIteam_ și _CollectibleItem_ sunt moștenite din clasa abstractă _Item_
+       -  _Enemy_ este moștenită din clasa abstractă _Entity_
       - **în lanț:** - _SpecialEnemy_ moștenește clasele _Enemy_ și _AttackItem_
   - [x] Clase abstracte (_Item_, _Entity_, _Puzzle_)
   - [x] Funcții virtuale apelate prin pointeri la clasa de bază
